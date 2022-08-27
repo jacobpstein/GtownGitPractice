@@ -1,2 +1,2 @@
 # GtownGitPractice
-A tutorial for using Git
+A tutorial for *BROKEN* Git
